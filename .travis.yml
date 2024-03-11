@@ -7,7 +7,7 @@ services:
 
 env:
   global:
-    - DOCKERHUB="taisun/nzbget-mod"
+    - DOCKERHUB="scottburgess/syncthing-port-mod"
 
 jobs:
   include:
